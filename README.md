@@ -12,9 +12,9 @@ Project title: Marina fleet
 
     Ha Vinh Kien (kienha164@gmail.com) 
 
-    Nguyen Cong Hau (leconghau@gmail.com) 
+    Nguyen Cong Hau (leconghau0402@gmail.com) 
      
-    Le Duc Tam (1lephatthinh@gmail.com) 
+    Le Duc Tam (leductam1122@gmail.com) 
 ====================================
 
 eProject documentation at:https://github.com/kienha164/Marina-Fleet-2/tree/main/Document
